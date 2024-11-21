@@ -1,6 +1,6 @@
 variable "this_image_id" {
   type        = string
-  default = "ami-09b0a86a2c84101e1"
+  default = "ami-07c9c7aaab42cba5a"
 }
 
 variable "this_disable_api_stop" {
