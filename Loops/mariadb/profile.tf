@@ -1,5 +1,5 @@
 provider "aws" {
-   profile = "swapnil"
+   profile = "configs"
     default_tags {
                 tags = {
                     name = "aws"
