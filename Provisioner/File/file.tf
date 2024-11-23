@@ -10,7 +10,7 @@ provider "aws" {
      
      provisioner "file" {
     source      = "readme.md"
-    destination = "/home/ec2-user/readme.md"
+    destination = "/home/ec2-user/readme.md"    #ec2-user so ami amazon linux,ubuntu then ami ubuntu
       connection {
     type     = "ssh"
     user     = "ec2-user"
