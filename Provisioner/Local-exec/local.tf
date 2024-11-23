@@ -4,7 +4,7 @@ provider "aws" {
 }
  resource "aws_instance" "this_aws_instance" {
     ami = "ami-0c45ac6ebf9cf6245"
-    vpc_security_group_ids = ["sg-03456a14525e928dc"]
+    vpc_security_group_ids = ["sg-0f0270676d737fb48"]
     key_name = "marigold"
     instance_type = "t2.micro"
      
