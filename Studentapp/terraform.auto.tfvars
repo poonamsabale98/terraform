@@ -1,7 +1,7 @@
-this_ami      = "ami-042e76978adeb8c48"  # Use an appropriate AMI ID for your region
+this_ami      = "ami-040e36b3d8a04c471 "  # Use an appropriate AMI ID for your region
 instance_type = "t2.micro"
-key_name      = "batmobile"     # Replace with your EC2 key pair name
-vpc_id        = "vpc-03276f1b3bce97eec"           # Replace with your VPC ID
-subnet_ids    = ["subnet-07d50e514206d0408", "subnet-0cb026ebf3a0bf22e", "subnet-0a7d16e970a6d7b9f", "subnet-0c695957469386d8e"]
-domain_name   = "swapnilbdevops.online"            # Replace with your domain name
-subdomain     = "student"                   # Subdomain to bind (e.g., 'todo.example.com')
+key_name      = "poonam"     # Replace with your EC2 key pair name
+vpc_id        = "vpc-01fdbf134c5d4beee"           # Replace with your VPC ID
+subnet_ids    = ["subnet-0efaefe6cef78791d", "subnet-09ac1ed090b0561c9", "subnet-077ef194287d71df9", "subnet-0c695957469386d8e"]
+domain_name   = "devopspoonam.fun"            # Replace with your domain name
+subdomain     = "student.devopspoonam.fun"                   # Subdomain to bind (e.g., 'todo.example.com')
