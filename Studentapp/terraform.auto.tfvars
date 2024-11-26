@@ -1,4 +1,4 @@
-this_ami      = "ami-040e36b3d8a04c471 "  # Use an appropriate AMI ID for your region
+this_ami      = "ami-03fa85deedfcac80b  "  # Use an appropriate AMI ID for your region
 instance_type = "t2.micro"
 key_name      = "poonam"     # Replace with your EC2 key pair name
 vpc_id        = "vpc-01fdbf134c5d4beee"           # Replace with your VPC ID
