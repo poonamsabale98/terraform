@@ -33,5 +33,5 @@ variable "subdomain" {
 variable "subnet_ids" {
   description = "List of subnet IDs"
   type        = list(string)
-  default = ["subnet-07d50e514206d0408", "subnet-0cb026ebf3a0bf22e", "subnet-0a7d16e970a6d7b9f", "subnet-0c695957469386d8e"]
+  default = ["subnet-09ac1ed090b0561c9", "subnet-0efaefe6cef78791d", "subnet-077ef194287d71df9"]
 }
