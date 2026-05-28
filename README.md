@@ -21,4 +21,4 @@ Infrastructure as Code (IaC) is the process of managing and provisioning infrast
 * To track infrastructure changes using version control
 * To simplify cloud and DevOps operations
 
-<img width="940" height="550" alt="image" src="https://github.com/user-attachments/assets/89b67032-5d29-4e0b-9621-dc16c9d5154c" />
+<img width="740" height="350" alt="image" src="https://github.com/user-attachments/assets/89b67032-5d29-4e0b-9621-dc16c9d5154c" />
